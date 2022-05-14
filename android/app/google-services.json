@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "96574479209",
+    "project_id": "music-player-7cb08",
+    "storage_bucket": "music-player-7cb08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96574479209:android:c8b8094d91c54efc843bf8",
+        "android_client_info": {
+          "package_name": "com.luffan.music_player"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "96574479209-ds192s7cfetqnprhgmk3o2iplpcvqb6h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqPGqMviamaJn0jZ9QmETO3MUtedL-jro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "96574479209-ds192s7cfetqnprhgmk3o2iplpcvqb6h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
